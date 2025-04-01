@@ -23,9 +23,3 @@ include:
 include:
   - board: nice_nano_v2
     shield: tg4x
-include:
-  - board: nice_nano_v2
-    shield: tg4x
-include:
-  - board: nice_nano_v2
-    shield: tg4x
